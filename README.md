@@ -36,3 +36,5 @@ PACKAGES I USED IN THE PROJECT:   1  -->  Opencomputervision
 *  How much Accuracy the images are captured it shows the visualise training results
 *  Loss of the image clarity also it shows by the visualization
   
+# Score a Single Static Image
+* The acctual facemask detection shows here from the captured images which happened in the intial steps
